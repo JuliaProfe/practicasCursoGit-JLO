@@ -8,4 +8,6 @@ Este repositorio se utiliza para practicar diversos comandos y flujos de trabajo
 3.  Añade el archivo al área de preparación: `git add <nombre_archivo>`
 4.  Modifica el mensaje del último commit: `git commit --amend -m "Nuevo mensaje del commit"`
 5.  Verifica que en el historial de commits el mensaje y los archivos han cambiado
+
+##Realizo un cambio Julia
     
